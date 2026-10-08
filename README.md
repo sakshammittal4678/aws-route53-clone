@@ -1,5 +1,15 @@
 # Amazon Route 53 Console Clone
 
+Live URL : https://aws-route53-clone-eight.vercel.app/login
+
+User Credentials : 
+1) Username : admin
+   
+   Password : password123
+2) Username : paul-philip
+
+   Password : password123
+
 A pixel-accurate, fully functional clone of the **Amazon Web Services (AWS) Route 53** web management console, built with the official `@cloudscape-design/components` design system and powered by a FastAPI backend with SQLite persistent storage.
 
 ---
